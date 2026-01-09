@@ -1,1 +1,1 @@
-This project gives developers the opportunity to use free RDP.
+This repository gives developers the opportunity to use free RDP.
